@@ -25,7 +25,7 @@ def main():
         Bucket=bucket_name,
         Key=aws_key
     )
-    print ('Done uploading with s3')
+    print ('Done uploading with s3 fix3')
 
 
 main()
